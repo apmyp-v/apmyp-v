@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @apmyp-v, basically backend developer with C++/fintech background, last years worked with usual web technologies to create crypto services (PHP,MySQL/Postgres, Memcache, etc)
+- 👀 I’m interested in a a new work and relocation to the country where is government doesn't kill its own citizens in senseless war
+- 🌱 I’m currently learning different languages (Solidity, Rust). Actually I'm looking for a business idea and will use relevant technologies
+- 📫 How to reach me? Use Telegram: replace hyphen with underscore for a nickname
